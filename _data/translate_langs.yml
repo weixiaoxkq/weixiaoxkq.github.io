@@ -1,7 +1,0 @@
-# Translate languges
-# langs refer to https://cloud.google.com/translate/docs/languages
-
-- lang: zh-CN
-  img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-  text: Chinese(Simple)
-  
