@@ -1,7 +1,7 @@
-- default: 文章
+- default: menu_index
   url:   ""
 
-- default: 分类
+- default: menu_category
   url:   "category"
 
 - default: menu_about
